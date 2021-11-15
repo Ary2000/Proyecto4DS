@@ -13,8 +13,8 @@ firebase.initializeApp({
   projectId: "bdpds4",
   storageBucket: "bdpds4.appspot.com",
   messagingSenderId: "1054838763782",
-  appId: "1:1054838763782:web:32b8793e5efdb229996e87",
-  measurementId: "G-94V58WLPMW",
+  appId: "1:1054838763782:web:3086f983a3c3b7f0996e87",
+  measurementId: "G-5BG4QD7RMB",
 });
 
 const auth = firebase.auth();
